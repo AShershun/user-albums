@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    background-color: cadetblue;
+    user-select: none;
+}
+
+.nav_item {
+    cursor: pointer;
+    color: #ffffff;
+    padding: 10px 15px;
+    margin: 0 10px;
+}
+
+.nav_item:hover {
+    background-color: #3c787a;
+}

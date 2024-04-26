@@ -1,0 +1,28 @@
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.list {
+    margin: 40px 0;
+}
+
+.list_item {
+    margin: 10px 0;
+    color: #3c787a;
+    display: table;
+    text-decoration: none;
+}
+
+.list_item:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.link_img {
+    margin: auto 5px;
+}
+
+.img_item:hover {
+    width: 160px;
+}
